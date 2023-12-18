@@ -1,0 +1,13 @@
+.home-hero {
+  background-image: linear-gradient(
+    to bottom,
+    black 5%,
+    rgba(0, 0, 0, 0.4) 20%,
+    rgba(0, 43, 32, 0.4) 50%,
+    rgba(0, 0, 0, 0.9) 100%
+  );
+}
+
+.item-price {
+  max-width: 120px;
+}
